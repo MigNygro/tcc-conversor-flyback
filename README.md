@@ -1,10 +1,6 @@
 # tcc-conversor-flyback
 "Projeto de TCC: Desenvolvimento de Conversor Flyback e Automação de Dados.
 
-Aqui está o conteúdo formatado especificamente para um arquivo README.txt.
-
-Este formato evita elementos visuais que só funcionam em navegadores (como o GitHub) e foca na legibilidade em blocos de texto puro, ideal para ser lido em qualquer editor (Notepad, VS Code, etc).
-
 Plaintext
 ===============================================================================
 PROJETO DE TCC: CONVERSOR FLYBACK CC-CC - CONTROLE DIGITAL E ESTABILIDADE
