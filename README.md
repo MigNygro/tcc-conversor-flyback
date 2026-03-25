@@ -60,5 +60,5 @@ Passo 4: Siga o Roteiro de Montagem em /04_Roteiro para o primeiro "power-on".
 Este projeto está sob a Licença MIT - Sinta-se livre para usar e aplicar,
 desde que cite a fonte original.
 
-===============================================================================
+
 Gerado para fins de documentação técnica de Engenharia Elétrica.
