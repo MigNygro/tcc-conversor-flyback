@@ -1,7 +1,6 @@
 # tcc-conversor-flyback
 "Projeto de TCC: Desenvolvimento de Conversor Flyback e Automação de Dados.
 
-Plaintext
 ===============================================================================
 PROJETO DE TCC: CONVERSOR FLYBACK CC-CC - CONTROLE DIGITAL E ESTABILIDADE
 Autor: Miguel Nigro e Luis Fernando | Engenharia Elétrica - UFMS | 2026
