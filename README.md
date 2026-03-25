@@ -75,6 +75,6 @@ Este projeto está sob a Licença MIT. Sinta-se à vontade para utilizar,
 modificar e distribuir para fins acadêmicos e profissionais, desde que a 
 fonte original seja devidamente citada.
 
-===============================================================================
+-------------------------------------------------------------------------------
     Gerado para Documentação Técnica de Engenharia Elétrica - 2026
-===============================================================================
+-------------------------------------------------------------------------------
