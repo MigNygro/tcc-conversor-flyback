@@ -47,7 +47,6 @@ O script permite prever o comportamento do hardware:
 Passo 1: Utilize a planilha em /03_Calculos para dimensionar o transformador.
 Passo 2: Rode a simulação em /01_Simulacao para validar seus ganhos PID.
 Passo 3: Carregue o código em /02_Firmware para o Arduino.
-Passo 4: Siga o Roteiro de Montagem em /04_Roteiro para o primeiro "power-on".
 
 6. REQUISITOS TÉCNICOS
 ----------------------
